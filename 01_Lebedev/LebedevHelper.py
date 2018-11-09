@@ -52,3 +52,6 @@ def chi2_dist(J):
 
 def center_edges(x):
     return x[1:] - (x[1]-x[0])*0.5
+
+def edges_to_center(edges):
+    return (edges[1:]+edges[:-1])*.5
