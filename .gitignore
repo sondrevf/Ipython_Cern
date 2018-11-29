@@ -1,0 +1,5 @@
+# Git ignore file
+# Untracked files
+*.png
+11_MD3288*
+01_Lebedev/djxdjx*
