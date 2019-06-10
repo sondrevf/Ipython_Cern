@@ -3,8 +3,12 @@
 *.png
 *.eps
 *Plots/
+*Plots*
 11_MD3288*
 analyseProfiles/
+old/
+forslagTilAndrea.ipynb
+
 
 #Python files
 *ipynb_checkpoints
@@ -13,3 +17,5 @@ analyseProfiles/
 # Different helper files
 01_Lebedev/djxdjx*
 02_COMBIp/timing_COMBIp/
+*Output/
+*Input/
