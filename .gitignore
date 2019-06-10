@@ -1,5 +1,14 @@
 # Git ignore file
 # Untracked files
 *.png
+*.eps
+*Plots/
 11_MD3288*
+
+#Python files
+*ipynb_checkpoints
+*_pycache__/
+
+# Different helper files
 01_Lebedev/djxdjx*
+02_COMBIp/timing_COMBIp/
