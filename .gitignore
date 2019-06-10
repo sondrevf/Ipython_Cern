@@ -4,6 +4,7 @@
 *.eps
 *Plots/
 11_MD3288*
+analyseProfiles/
 
 #Python files
 *ipynb_checkpoints
