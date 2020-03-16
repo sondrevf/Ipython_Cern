@@ -1,6 +1,6 @@
 # Lebedev functions
 import numpy as np
-import scipy as sp
+import scipy as sc
 pi2 = np.pi*2
 sigdpp= 1.129E-4
 
@@ -57,7 +57,7 @@ def int_octuQp_leb(Jx,Jy,delta,a,b,g,Qp,sigdpp):
     return octuQp_leb(Jx,Jy,delta,a,b,g,Qp)*np.exp(-Jx-Jy)*dist(delta,sigdpp)
 
 def chi2_dist(J):
-    return sp.stats.chi2.pdf(J*2,2)*2
+    return sc.stats.chi2.pdf(J*2,2)*2
 
 
 def abs_action(a,b):

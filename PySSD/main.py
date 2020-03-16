@@ -4,9 +4,8 @@ import sys, time
 import numpy as np
 import matplotlib.pyplot as plt
 plt.switch_backend('TkAgg')
-sys.path.append('../')
 
-from PySSD.Distribution import Gaussian as BiGaussian
+from PySSD.Distribution import BiGaussian
 from PySSD.Detuning import LinearDetuning
 from PySSD.Dispersion import Dispersion
 from PySSD.Integrator import FixedTrapezoidalIntegrator, SimpsonIntegrator, TrapzIntegrator
@@ -84,7 +83,7 @@ tuneShifts = np.array(tuneShifts)
 np.savetxt(outputFileName, [tuneShifts.real, tuneShifts.imag])
 
 t1 = time.clock()-t0
-print("Elapsed times: {:g}s.".format(t1))
+print "Elapsed times: {:g}s.".format(t1)
 
 fig = plt.figure(tight_layout=True)
 ax = fig.add_subplot(111)
