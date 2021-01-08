@@ -9,6 +9,8 @@ analyseProfiles/
 old/
 forslagTilAndrea.ipynb
 
+PyRADISE*
+PySSDgit
 
 #Python files
 *ipynb_checkpoints
@@ -19,3 +21,6 @@ forslagTilAndrea.ipynb
 02_COMBIp/timing_COMBIp/
 *Output/
 *Input/
+
+# Exceptions
+!05_NoiseSpectrum/01_Output*

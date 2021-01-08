@@ -1,0 +1,24 @@
+# timestamp | duration | file | instruction | dir | modtime | etag | size | fileId | status | errorString | http result code | other size | other modtime | other etag | other fileId | other instruction
+#=#=#=# Syncrun started 2020-05-01T12:38:25Z
+#=#=#=#=# Propagation starts 2020-05-01T12:38:25Z (last step: 154 msec, total: 154 msec)
+12:38:25||01_Output|INST_NEW|Up|1588252186||163840|30305501|4||201|0|0||||
+12:38:25||04_PlotsPhysics|INST_NEW|Up|1570203549||4096|30305502|4||201|0|0||||
+12:38:25||04_PlotsHarm|INST_NEW|Up|1559910002||4096|30305503|4||201|0|0||||
+12:38:25||04_Plots_Diffusion|INST_NEW|Up|1588254172||131072|30305504|4||201|0|0||||
+12:38:25||03_Plots|INST_NEW|Up|1585147818||16384|30305505|4||201|0|0||||
+12:38:25||02_Input|INST_NEW|Up|1552929130||4096|30305506|4||201|0|0||||
+12:38:25||01_Output/LebDiffScan|INST_NEW|Up|1583259738||16384|30305507|4||201|0|0||||
+12:38:25||01_Output/MCBI|INST_NEW|Up|1583259609||4096|30305508|4||201|0|0||||
+12:38:25||01_Output/NEW_POP|INST_NEW|Up|1587814570||4096|30305509|4||201|0|0||||
+12:38:25||01_Output/GR0_lebscan_2D_Nc700r_tmax24h_aKconst_a|a0=4.00e+00.pkl|INST_NEW|Up|1571232496|82967074573385728:3a1cb678|518|82967074573385728|4||201|0|0||||
+12:38:25||01_Output/GR0_lebscan_2D_Nc700r_tmax24h_Kxconst_rel(Kx,10Ix)=1.00e+00.pkl|INST_NEW|Up|1580154217|82967074841821184:82a3b250|503|82967074841821184|4||201|0|0||||
+12:38:25||01_Output/GR0_lebscan_2D_Nc700r_tmax24h_K|K0=4.00e+00.pkl|INST_NEW|Up|1571746043|82967074304950272:cb3eb181|511|82967074304950272|4||201|0|0||||
+12:38:49||01_Output/LebDiffScan/lebscan_2D_Nc700r_tmax24h_Kxconst_rel(Kx,10Ix)=-1.00e+00_S0.pkl|INST_NEW|Up|1571151928|82967089337335808:6e998311|250940273|82967089337335808|4||201|0|0||||
+12:38:56||01_Output/LebDiffScan/lebscan_2D_Nc700r_tmax24h_Kxconst_rel(Kx,10Ix)=-1.00e+00_S3.pkl|INST_NEW|Up|1571680363|82967092826996736:b53ed22f|196624005|82967092826996736|4||201|0|0||||
+12:39:18||01_Output/LebDiffScan/lebscan_2D_Nc700r_tmax24h_Kxconst_rel(Kx,10Ix)=-6.67e-01_S0.pkl|INST_NEW|Up|1571151947|82967124502380544:40ed7352|250940273|82967124502380544|4||201|0|0||||
+12:39:39||01_Output/LebDiffScan/lebscan_2D_Nc700r_tmax24h_Kxconst_rel(Kx,10Ix)=-1.00e+00_S2.pkl|INST_NEW|Up|1580154050|82967126112993280:e8a3b7fd|644330835|82967126112993280|4||201|0|0||||
+12:40:00||01_Output/LebDiffScan/lebscan_2D_Nc700r_tmax24h_Kxconst_rel(Kx,10Ix)=0.00e+00_S0.pkl|INST_NEW|Up|1571151950|82967129871089664:aa868e21|250940273|82967129871089664|4||201|0|0||||
+||01_Output/LebDiffScan/lebscan_2D_Nc700r_tmax24h_Kxconst_rel(Kx,10Ix)=-3.33e-01_S2.pkl|INST_NEW|Up|1580154069||644331039||3|Operation canceled|0|0|0||||
+||01_Output/LebDiffScan/lebscan_2D_Nc700r_tmax24h_Kxconst_rel(Kx,10Ix)=-6.67e-01_S2.pkl|INST_NEW|Up|1580154059||644330835||3|Operation canceled|0|0|0||||
+||01_Output/LebDiffScan/lebscan_2D_Nc700r_tmax24h_Kxconst_rel(Kx,10Ix)=0.00e+00_S2.pkl|INST_NEW|Up|1580154078||644330835||3|Operation canceled|0|0|0||||
+#=#=#=# Syncrun finished 2020-05-01T12:40:10Z (last step: 105251 msec, total: 105406 msec)
